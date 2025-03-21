@@ -9,7 +9,10 @@
 
 </div>
 
-🖥️ Por aqui os projetos são autenticados projetos antes de serem entregues aos clientes.
+#### 🖥️ Por aqui os projetos são autenticados projetos antes de serem entregues aos clientes.
+
+<br>
+
 
 ## 📱 Contatos
 
@@ -19,6 +22,10 @@
 🌐 [Facebook](https://www.facebook.com/oerlabsdev)<br>
 ⌨️ [Email](https://www.facebook.com/oerlabsdev)<br>
 
+
+<br>
+
+## 👨🏼‍🏫 Projetos
 
 <br><br>
 
