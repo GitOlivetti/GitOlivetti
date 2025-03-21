@@ -5,8 +5,6 @@
 <!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
 <a href="https://twitter.com/oerlabsdev" ><img src="https://img.shields.io/twitter/follow/oerlabs.svg?style=social" /> </a>
 
-<br>
-
 </div>
 
 #### 🖥️ Por aqui os projetos são autenticados projetos antes de serem entregues aos clientes.
