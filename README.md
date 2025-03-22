@@ -1,5 +1,5 @@
-<h1 align="center">OER Labs
-<a href="oerlabs.com.br" target="_blank"></a></h1>
+<h1 align="center">OER Labs</h1>
+
 <div align="center">
 
 <!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
