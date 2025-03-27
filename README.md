@@ -33,8 +33,6 @@
 
 
 
-[Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
-
 <br><br>
 
 <!--
@@ -308,7 +306,7 @@
 ## ⛏ Tools 
 [![My Skills](https://skillicons.dev/icons?i=php,js,cs,dotnet,linux,wordpress,aws,azure,gcp,py,react,github,html&perline=15)](https://skillicons.dev)
 
-<!--
+
 
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
@@ -389,4 +387,4 @@ Please read the [contribution guidelines](contributing.md) first.
 ## Special Thanks 🙇
 - [Zetao Zhuang](https://github.com/zzetao) for making the amazing site for this repo!
 
--->
+
