@@ -27,7 +27,10 @@
 
 ## 👨🏼‍🏫 Projetos
 
-[GeneralBots](https://github.com/GeneralBots)
+🚀 [OER Labs Blog](https://oerlabs.com.br/blog)<br>
+👨🏼‍🏫 [OER Tecnologia](https://oertecnologia.com.br/)<br>
+🐟 [Navegarmais](https://github.com/GitOlivetti/navegarmais)
+🤖 [GeneralBots](https://github.com/GeneralBots)
 
 <br><br>
 
