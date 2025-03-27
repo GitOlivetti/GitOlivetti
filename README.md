@@ -14,7 +14,7 @@
 
 ## 📱 Contatos
 
-🤖 [OER Labs](https://oerlabs.com.br/blog/)<br>
+🧪 [OER Labs](https://oerlabs.com.br/blog/)<br>
 🚀 [OER Labs Blog](https://oerlabs.com.br/blog)<br>
 🐦 [Twitter](https://x.com/oerlabsdev)<br>
 🌐 [Facebook](https://www.facebook.com/oerlabsdev)<br>
@@ -26,7 +26,7 @@
 ## 👨🏼‍🏫 Projetos
 
 🚀 [OER Labs Blog](https://oerlabs.com.br/blog)<br>
-🤖 [Git OER Labs](https://github.com/oerlabshenrique)<br>
+🧪 [Git OER Labs](https://github.com/oerlabshenrique)<br>
 👨🏼‍🏫 [OER Tecnologia](https://oertecnologia.com.br/)<br>
 🐟 [Navegarmais](https://github.com/GitOlivetti/navegarmais)<br>
 🤖 [GeneralBots](https://github.com/GeneralBots)<br>
