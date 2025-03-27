@@ -7,8 +7,6 @@
 
 </div>
 
-#### 🖥️ Por aqui os projetos são autenticados projetos antes de serem entregues aos clientes.
-
 <br>
 
 
