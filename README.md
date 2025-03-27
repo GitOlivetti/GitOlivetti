@@ -20,15 +20,13 @@
 🌐 [Facebook](https://www.facebook.com/oerlabsdev)<br>
 ⌨️ [Email](https://www.facebook.com/oerlabsdev)<br>
 
-🤖 [Git OER Labs](https://github.com/oerlabshenrique)
-
-
 
 <br>
 
 ## 👨🏼‍🏫 Projetos
 
 🚀 [OER Labs Blog](https://oerlabs.com.br/blog)<br>
+🤖 [Git OER Labs](https://github.com/oerlabshenrique)
 👨🏼‍🏫 [OER Tecnologia](https://oertecnologia.com.br/)<br>
 🐟 [Navegarmais](https://github.com/GitOlivetti/navegarmais)
 🤖 [GeneralBots](https://github.com/GeneralBots)
