@@ -31,6 +31,10 @@
 🐟 [Navegarmais](https://github.com/GitOlivetti/navegarmais)<br>
 🤖 [GeneralBots](https://github.com/GeneralBots)<br>
 
+
+
+[Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
+
 <br><br>
 
 <!--
