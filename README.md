@@ -12,7 +12,7 @@
 
 ## 📱 Contatos
 
-🧪 [OER Labs](https://oerlabs.com.br/blog/)<br>
+🎧 [OER Labs](https://oerlabs.com.br/blog/)<br>
 🚀 [OER Labs Blog](https://oerlabs.com.br/blog)<br>
 🐦 [Twitter](https://x.com/oerlabsdev)<br>
 🌐 [Facebook](https://www.facebook.com/oerlabsdev)<br>
