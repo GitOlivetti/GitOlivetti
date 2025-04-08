@@ -25,7 +25,7 @@
 
 🚀 [OER Labs Blog](https://oerlabs.com.br/blog)<br>
 🧪 [Git OER Labs](https://github.com/oerlabshenrique)<br>
-👨🏼‍🏫 [OER Tecnologia](https://oertecnologia.com.br/)<br>
+👨 [OER Tecnologia](https://oertecnologia.com.br/)<br>
 🐟 [Navegarmais](https://github.com/GitOlivetti/navegarmais)<br>
 🤖 [GeneralBots](https://github.com/GeneralBots)<br>
 
